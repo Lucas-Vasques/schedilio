@@ -1,1 +1,73 @@
-# schedilio
+# Schedilio
+
+Schedilio é um protótipo/MVP acadêmico desenvolvido para a disciplina de Metodologia de Desenvolvimento de Sistemas.
+
+A proposta é ajudar profissionais da área da saúde a organizar pacientes, atendimentos, tarefas, agenda e pendências em um único lugar.
+
+## Problema
+
+Muitos profissionais da saúde utilizam várias ferramentas ao mesmo tempo, como WhatsApp, Google Agenda, prontuário, bloco de notas, agenda física e listas. Isso dificulta a centralização das informações e o acompanhamento das pendências.
+
+## Público-alvo
+
+Profissionais da área da saúde, como médicos, psicólogos, neuropsicólogos e profissionais que lidam com pacientes, atendimentos e tarefas.
+
+## Abordagem centrada no usuário
+
+A abordagem escolhida foi Design Thinking.
+
+Foram consideradas as etapas de:
+- Empatia
+- Definição do problema
+- Ideação
+- Prototipação
+- Testes
+
+## Método ágil
+
+O método escolhido foi Scrumban, acompanhado por meio do GitHub Projects.
+
+Colunas utilizadas:
+- Backlog
+- A fazer
+- Em andamento
+- Em validação
+- Concluído
+- Bloqueado
+
+## Funcionalidades do MVP
+
+- Cadastro de pacientes
+- Lista de pacientes
+- Cadastro de tarefas
+- Status das tarefas
+- Observações importantes
+- Dashboard com resumo
+- Agenda simples
+
+## Protótipo
+
+O protótipo foi desenvolvido no Figma.
+
+Link do protótipo:
+COLE_AQUI_O_LINK_DO_FIGMA
+
+## Acompanhamento do projeto
+
+O acompanhamento das tarefas foi realizado no GitHub Projects.
+
+Link do quadro:
+COLE_AQUI_O_LINK_DO_GITHUB_PROJECTS
+
+## Integrantes
+
+- Lucas Diógenes Landim Vasques — Product Owner / Organização do Backlog
+- Nome 2 — Scrum Master / Facilitador
+- Nome 3 — Desenvolvedor
+- Nome 4 — Desenvolvedor
+- Nome 5 — Desenvolvedor
+- Nome 6 — Desenvolvedor
+
+## Entrega final
+
+Entrega final e apresentação: 16/06/2026.

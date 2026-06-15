@@ -50,7 +50,7 @@ Colunas utilizadas:
 O protótipo foi desenvolvido no Figma.
 
 Link do protótipo:
-[LINK_DO_FIGMA](https://www.figma.com/design/24BROiHVkfVrjzXCczTMAg/Schedilio---Prot%C3%B3tipo-MVP?node-id=0-1&t=nK2FfVZid8hD3VER-1)
+[LINK_DO_FIGMA](https://www.figma.com/design/24BROiHVkfVrjzXCczTMAg/Schedilio---Prot%C3%B3tipo-MVP?node-id=1-4&t=nK2FfVZid8hD3VER-1)
 
 ## Acompanhamento do projeto
 

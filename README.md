@@ -62,11 +62,11 @@ Link do quadro:
 ## Integrantes
 
 - Lucas Diógenes Landim Vasques — Product Owner / Organização do Backlog
-- Nome 2 — Scrum Master / Facilitador
-- Nome 3 — Desenvolvedor
-- Nome 4 — Desenvolvedor
-- Nome 5 — Desenvolvedor
-- Nome 6 — Desenvolvedor
+-  Icarous Kortbawi Sant’ Anna Duarte Moretti — Scrum Master / Facilitador
+- João Henrique Freire de Souza — Desenvolvedor
+- Lucas Gabriel Braga Silva — Desenvolvedor
+- João Vítor Leite Tollstadius — Desenvolvedor
+- Arthur Sant Anna da Silveira — Desenvolvedor
 
 ## Entrega final
 

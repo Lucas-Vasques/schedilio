@@ -50,14 +50,14 @@ Colunas utilizadas:
 O protótipo foi desenvolvido no Figma.
 
 Link do protótipo:
-COLE_AQUI_O_LINK_DO_FIGMA
+[COLE_AQUI_O_LINK_DO_FIGMA](https://www.figma.com/design/24BROiHVkfVrjzXCczTMAg/Schedilio---Prot%C3%B3tipo-MVP?node-id=0-1&t=nK2FfVZid8hD3VER-1)
 
 ## Acompanhamento do projeto
 
 O acompanhamento das tarefas foi realizado no GitHub Projects.
 
 Link do quadro:
-COLE_AQUI_O_LINK_DO_GITHUB_PROJECTS
+[COLE_AQUI_O_LINK_DO_GITHUB_PROJECTS](https://github.com/users/Lucas-Vasques/projects/4)
 
 ## Integrantes
 

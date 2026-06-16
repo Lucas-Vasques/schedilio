@@ -67,6 +67,7 @@ Link do quadro:
 - Lucas Gabriel Braga Silva — Desenvolvedor
 - João Vítor Leite Tollstadius — Desenvolvedor
 - Arthur Sant Anna da Silveira — Desenvolvedor
+- Leonardo Soares Paes - Desenvolvedor
 
 ## Entrega final
 
